@@ -1,207 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="167.22728"
-   height="122.12435"
-   id="svg3736"
-   sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="RjveraL.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
-  <metadata
-     id="metadata62">
+<svg xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="167.2270050048828" height="122.1240005493164" id="svg3736" sodipodi:version="0.32" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="rjveral.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:modified="true" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2.98438 -20.2969 170.212 159.531"><rect id="svgEditorBackground" x="-2.984380006790161" y="-20.296899795532227" width="170.21200561523438" height="159.531005859375" style="fill:none;stroke:none;"/>
+  <metadata id="metadata62">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="838"
-     inkscape:window-width="1440"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="2.9453125"
-     inkscape:cx="45.731989"
-     inkscape:cy="40.756856"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:current-layer="svg3736"
-     showgrid="false"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <defs
-     id="defs3738">
-    <clipPath
-       id="XMLID_12_">
-      <path
-         inkscape:connector-curvature="0"
-         id="use3370"
-         d="m 156.949,164.165 c 3.338,-4.938 5.882,-8.428 7.561,-10.374 2.21,-2.574 4.032,-4.258 5.416,-5.007 1.341,-0.724 2.786,-1.091 4.295,-1.091 1.622,0 2.813,0.412 3.641,1.26 0.833,0.855 1.238,2.006 1.238,3.519 0,1.411 -0.407,2.522 -1.245,3.397 -0.824,0.859 -1.827,1.277 -3.066,1.277 -0.998,0 -2.176,-0.203 -3.499,-0.605 -1.563,-0.473 -2.598,-0.693 -3.257,-0.693 -1.667,0 -3.263,0.594 -4.744,1.764 -1.906,1.5 -4.147,4.548 -6.853,9.316 z" />
+  <sodipodi:namedview inkscape:window-height="838" inkscape:window-width="1440" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:zoom="2.9453125" inkscape:cx="66.910793" inkscape:cy="40.756856" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:current-layer="svg3736" showgrid="false" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0"/>
+  <defs id="defs3738">
+    <clipPath id="XMLID_12_">
+      <path inkscape:connector-curvature="0" id="use3370" d="m 156.949,164.165 c 3.338,-4.938 5.882,-8.428 7.561,-10.374 2.21,-2.574 4.032,-4.258 5.416,-5.007 1.341,-0.724 2.786,-1.091 4.295,-1.091 1.622,0 2.813,0.412 3.641,1.26 0.833,0.855 1.238,2.006 1.238,3.519 0,1.411 -0.407,2.522 -1.245,3.397 -0.824,0.859 -1.827,1.277 -3.066,1.277 -0.998,0 -2.176,-0.203 -3.499,-0.605 -1.563,-0.473 -2.598,-0.693 -3.257,-0.693 -1.667,0 -3.263,0.594 -4.744,1.764 -1.906,1.5 -4.147,4.548 -6.853,9.316 z"/>
     </clipPath>
-    <radialGradient
-       cx="167.7881"
-       cy="143.93159"
-       r="12.3218"
-       fx="167.7881"
-       fy="143.93159"
-       id="XMLID_13_"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         style="stop-color:white;stop-opacity:1"
-         offset="0"
-         id="stop3373" />
-      <stop
-         style="stop-color:black;stop-opacity:1"
-         offset="1"
-         id="stop3375" />
-      <a:midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="0.5028"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="1"
-         style="stop-color:#000000" />
+    <radialGradient cx="167.7881" cy="143.93159" r="12.3218" fx="167.7881" fy="143.93159" id="XMLID_13_" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color:white;stop-opacity:1" offset="0" id="stop3373"/>
+      <stop style="stop-color:black;stop-opacity:1" offset="1" id="stop3375"/>
+      <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="0.5028" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="1" style="stop-color:#000000"/>
     </radialGradient>
-    <clipPath
-       id="XMLID_10_">
-      <path
-         inkscape:connector-curvature="0"
-         id="use3355"
-         d="m 147.445,175.285 c -3.391,-12.432 -5.996,-19.703 -7.965,-22.229 -1.378,-1.79 -3.158,-2.699 -5.288,-2.699 -0.204,0 -0.424,0.01 -0.646,0.021 l 15.161,-2.586 c 3.004,4.854 5.175,10.238 6.438,16.025 l 0.497,2.281 z" />
+    <clipPath id="XMLID_10_">
+      <path inkscape:connector-curvature="0" id="use3355" d="m 147.445,175.285 c -3.391,-12.432 -5.996,-19.703 -7.965,-22.229 -1.378,-1.79 -3.158,-2.699 -5.288,-2.699 -0.204,0 -0.424,0.01 -0.646,0.021 l 15.161,-2.586 c 3.004,4.854 5.175,10.238 6.438,16.025 l 0.497,2.281 z"/>
     </clipPath>
-    <radialGradient
-       cx="158.5034"
-       cy="140.87601"
-       r="14.7914"
-       fx="158.5034"
-       fy="140.87601"
-       id="XMLID_11_"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0191,0,0,1.1269,-6.7067,-10.8416)">
-      <stop
-         style="stop-color:white;stop-opacity:1"
-         offset="0"
-         id="stop3358" />
-      <stop
-         style="stop-color:black;stop-opacity:1"
-         offset="1"
-         id="stop3360" />
-      <a:midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="0.5"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="1"
-         style="stop-color:#000000" />
+    <radialGradient cx="158.5034" cy="140.87601" r="14.7914" fx="158.5034" fy="140.87601" id="XMLID_11_" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0191,0,0,1.1269,-6.7067,-10.8416)">
+      <stop style="stop-color:white;stop-opacity:1" offset="0" id="stop3358"/>
+      <stop style="stop-color:black;stop-opacity:1" offset="1" id="stop3360"/>
+      <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="1" style="stop-color:#000000"/>
     </radialGradient>
-    <clipPath
-       id="XMLID_14_">
-      <polygon
-         id="use3390"
-         points="115.384,122.834 187.885,122.834 187.885,115.166 114.384,115.166 97.384,211.697 86.718,171.166 73.718,180 74.447,181.188 84.051,176.333 97.384,223.667 " />
+    <clipPath id="XMLID_14_">
+      <polygon id="use3390" points="115.384,122.834 187.885,122.834 187.885,115.166 114.384,115.166 97.384,211.697 86.718,171.166 73.718,180 74.447,181.188 84.051,176.333 97.384,223.667 "/>
     </clipPath>
-    <radialGradient
-       cx="114"
-       cy="114"
-       r="114"
-       fx="114"
-       fy="114"
-       id="XMLID_15_"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         style="stop-color:white;stop-opacity:1"
-         offset="0"
-         id="stop3393" />
-      <stop
-         style="stop-color:#00a8ff;stop-opacity:1;"
-         offset="1"
-         id="stop3395" />
-      <a:midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="0.5"
-         style="stop-color:#FFFFFF" />
-      <a:midPointStop
-         offset="1"
-         style="stop-color:#FF0000" />
+    <radialGradient cx="114" cy="114" r="114" fx="114" fy="114" id="XMLID_15_" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color:white;stop-opacity:1" offset="0" id="stop3393"/>
+      <stop style="stop-color:#00a8ff;stop-opacity:1;" offset="1" id="stop3395"/>
+      <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+      <a:midPointStop offset="1" style="stop-color:#FF0000"/>
     </radialGradient>
-    <filter
-       id="Gaussian_Blur">
-      <feGaussianBlur
-         in="SourceAlpha"
-         stdDeviation="1"
-         id="feGaussianBlur20" />
+    <filter id="Gaussian_Blur">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1" id="feGaussianBlur20"/>
     </filter>
   </defs>
-  <path
-     inkscape:connector-curvature="0"
-     d="m 164.22628,0.00171581 -57.5,1.99999999 c -1.45512,0.0506 -2.702,1.046 -2.955,2.479 l -14.627001,63.0550002 -7.184,-47.298 c -0.248,-0.941 -0.938,-1.704 -1.849,-2.046 -0.912,-0.342 -1.933,-0.219 -2.738,0.328 l -12.999999,8.834 c -1.326,0.901 -1.709,22.685 -0.871,24.051 l 0.729,1.188 c 0.816,1.33 2.517,1.813 3.91,1.108 l 6.352,-23.211 12.344999,63.826 c 0.379,1.346 1.638,2.251 3.035,2.183 1.396,-0.068 2.561,-1.093 2.806,-2.469 l 17.559001,-80.36 48.89616,-3.01856 c 0,0 8.09284,-2.3244402 8.09284,-3.9814402 v -3.668 c -0.001,-1.657 -1.345,-3.05759999 -3.001,-2.99999999 z"
-     style="fill:#0e00d2;fill-opacity:1"
-     id="path3380"
-     sodipodi:nodetypes="sscccccccccccccccscs" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot3821"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(166.44817,41.103476)"><flowRegion
-       id="flowRegion3823"><rect
-         id="rect3825"
-         width="62.132626"
-         height="81.145889"
-         x="-57.039787"
-         y="-1.6976128" /></flowRegion><flowPara
-       id="flowPara3827"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:David;-inkscape-font-specification:David;fill:#008000">L</flowPara></flowRoot>  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-2.9947915"
-     y="95.692329"
-     id="text4636"><tspan
-       sodipodi:role="line"
-       id="tspan4634"
-       x="-2.9947915"
-       y="95.692329"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;font-family:Mistral;-inkscape-font-specification:Mistral;fill:#ff0000;fill-opacity:1">R</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="45.731991"
-     y="120.24935"
-     id="text4640"><tspan
-       sodipodi:role="line"
-       id="tspan4638"
-       x="45.731991"
-       y="120.24935"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard';fill:#ff4e00;fill-opacity:1">J</tspan></text>
+  <path inkscape:connector-curvature="0" d="m 164.22628,0.00171581 -57.5,1.99999999 c -1.45512,0.0506 -2.702,1.046 -2.955,2.479 l -14.627001,63.0550002 -7.184,-47.298 c -0.248,-0.941 -0.938,-1.704 -1.849,-2.046 -0.912,-0.342 -1.933,-0.219 -2.738,0.328 l -12.999999,8.834 c -1.326,0.901 -1.709,22.685 -0.871,24.051 l 0.729,1.188 c 0.816,1.33 2.517,1.813 3.91,1.108 l 6.352,-23.211 12.344999,63.826 c 0.379,1.346 1.638,2.251 3.035,2.183 1.396,-0.068 2.561,-1.093 2.806,-2.469 l 17.559001,-80.36 48.89616,-3.01856 c 0,0 8.09284,-2.3244402 8.09284,-3.9814402 v -3.668 c -0.001,-1.657 -1.345,-3.05759999 -3.001,-2.99999999 z" style="fill:#0e00d2;fill-opacity:1" id="path3380" sodipodi:nodetypes="sscccccccccccccccscs"/>
+  <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="-2.9947915" y="95.692329" id="text4636"><tspan sodipodi:role="line" id="tspan4634" x="-2.9947915" y="95.692329" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;font-family:Mistral;-inkscape-font-specification:Mistral;fill:#ff0000;fill-opacity:1">R</tspan></text>
+  <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="45.731991" y="120.24935" id="text4640"><tspan sodipodi:role="line" id="tspan4638" x="45.731991" y="120.24935" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard';fill:#ff4e00;fill-opacity:1">J</tspan></text>
+  <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="108.87003" y="89.190666" id="text842"><tspan sodipodi:role="line" id="tspan840" x="108.87003" y="89.190666" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#008000">L</tspan></text>
 </svg>
